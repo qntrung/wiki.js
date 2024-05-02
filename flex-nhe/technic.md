@@ -2,7 +2,7 @@
 title: Technic
 description: lego xe
 published: true
-date: 2024-05-02T04:55:28.627Z
+date: 2024-05-02T04:57:17.833Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-02T04:54:08.575Z
