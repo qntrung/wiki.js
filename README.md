@@ -1,0 +1,2 @@
+# wiki.js
+location storage 
